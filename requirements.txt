@@ -1,0 +1,11 @@
+
+transformers
+datasets
+nltk
+pandas
+numpy
+matplotlib
+py7zr
+evaluate
+sacrebleu
+rouge_score
